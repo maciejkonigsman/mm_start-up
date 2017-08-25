@@ -1,0 +1,19 @@
+ul.rrssb-buttons{visibility:visible;margin:0
+!important;padding:0
+!important;list-style:none}ul.rrssb-buttons
+a{border:none;box-shadow:none;-webkit-box-shadow:none}ul.rrssb-buttons a:hover{box-shadow:none;-webkit-box-shadow:none}ul.rrssb-buttons li,
+.content ul.rrssb-buttons
+li{list-style-type:none;list-style-image:none;margin:0;padding:0
+2px}.rrssb-icon{}.rrssb-text{white-space:nowrap}.wpsso-rrssb-content{margin:10px
+0}#wpsso-rrssb-sidebar{display:block;cursor:pointer;position:fixed;z-index:99;top:50%;left:0;transform:translateY(-50%);border-top-right-radius:2px;border-bottom-right-radius:2px;overflow:hidden}#wpsso-rrssb-sidebar .rrssb-buttons{width:42px;height:42px;margin:0;padding:0}#wpsso-rrssb-sidebar .rrssb-buttons:before,
+#wpsso-rrssb-sidebar .rrssb-buttons:after{display:none}#wpsso-rrssb-sidebar .rrssb-buttons li
+a{border-radius:0}#wpsso-rrssb-sidebar .rrssb-buttons.small-format
+li{height:42px;padding:0}#wpsso-rrssb-sidebar .rrssb-buttons.small-format li a .rrssb-icon
+svg{height:60%;top:0;margin:20% auto}@media (max-width:1200px){#wpsso-rrssb-sidebar .rrssb-buttons{width:32px;height:32px}#wpsso-rrssb-sidebar .rrssb-buttons.small-format
+li{height:32px}}table.sucom-settings ul.rrssb-buttons{visibility:visible;margin:0
+!important;padding:0
+!important;list-style:none}table.sucom-settings ul.rrssb-buttons:before,
+table.sucom-settings ul.rrssb-buttons:after{display:none}.wpsso-rrssb-shortcode{margin:10px
+0}.widget ul.rrssb-buttons{margin:0;padding:0;list-style:none}.widget ul.rrssb-buttons.small-format{padding-top:5px}.widget ul.rrssb-buttons.tiny-format{height:30px}.widget ul.rrssb-buttons.tiny-format
+li{padding:0
+3px;border:none}

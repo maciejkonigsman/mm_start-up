@@ -1,0 +1,23 @@
+// main: style.scss
+
+// # Typography
+$font__main: 'Open Sans', Georgia, serif;
+$font__heading: 'Playfair Display', 'Open Sans', Georgia, serif;
+$font__code: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+$font__pre: "Courier 10 Pitch", Courier, monospace;
+$font__line-height-body: 1.5;
+$font__line-height-pre: 1.6;;
+$font__line-height-headings: 1.2;
+
+// # Structure
+$size__site-width: 1080px;
+
+// # Colors
+$color__primary: #d65456;
+$color__border: #f1f1f1;
+$color__white: #fff;
+$color__black: #111;
+
+$color__text: #222222;
+$color__heading: #222222;
+$color__meta: #777777;
